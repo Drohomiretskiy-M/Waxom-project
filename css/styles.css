@@ -1,0 +1,35 @@
+#headerbg {
+    background-image: url(/img/Photo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header nav img {
+    display: inline;
+}
+
+
+body {
+    min-width: 330px;
+}
+.slider {
+	margin-top: 285px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.btn {
+	margin: 60px;
+	padding: 20px 45px;
+	background-color: #998675;
+	border: 1px solid #998675;
+}
+
+.btn:hover {
+	background-color: #d49a65;
+}
+
+#carousel-example-generic {
+	height: 261px;
+}
+
